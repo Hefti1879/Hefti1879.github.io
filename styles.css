@@ -16,7 +16,6 @@ p {
   display: block;
   text-align: center;
   margin: 50px auto;
-  font: Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
-  font-size: 300%;
+  font: 300% Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   line-height: 1.5;
 }
