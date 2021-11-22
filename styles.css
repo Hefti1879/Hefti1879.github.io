@@ -4,10 +4,9 @@
   background: #F6F8FA;
 }
 
-#octocat {
+img {
   display: block;
-  width:200px;
-  heigth: 200px;
+  height: 200px;
   margin: 50px auto;
 }
 
