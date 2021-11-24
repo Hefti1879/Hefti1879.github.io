@@ -10,10 +10,14 @@ img {
   margin: 50px auto;
 }
 
-p {
+p, h1, span {
   width: 100%;
   display: block;
   text-align: center;
+  margin: 0 auto;
+}
+
+p {
   margin: 50px auto;
   font: 300% Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   line-height: 1.5;
