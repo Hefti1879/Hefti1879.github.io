@@ -11,11 +11,20 @@ img {
   max-width: 98vw;
 }
 
+span {
+ font: caption;
+  max-width: 800px;
+}
+
+h1 {
+ font-family: system-ui;
+}
+
 p, h1, span {
-  width: 100%;
   display: block;
   text-align: center;
   margin: 0 auto;
+  padding: 0 20px;
 }
 
 p {
