@@ -13,6 +13,30 @@
       <loc>https://www.hefti.media/bpc-waldkirch-bernhardzell/</loc>
       <priority>1</priority>
 
-   </url> 
+   </url>
+  
+    <url>
+
+      <loc>https://www.hefti.media/bpc-waldkirch-bernhardzell/home</loc>
+
+   </url>
+   
+    <url>
+
+      <loc>https://www.hefti.media/bpc-waldkirch-bernhardzell/contact</loc>
+
+   </url>
+   
+    <url>
+
+      <loc>https://www.hefti.media/bpc-waldkirch-bernhardzell/info</loc>
+
+   </url>
+   
+     <url>
+
+      <loc>https://www.hefti.media/bpc-waldkirch-bernhardzell/media</loc>
+
+   </url>
   
 </urlset> 
