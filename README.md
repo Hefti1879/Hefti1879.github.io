@@ -1,2 +1,2 @@
-Sali Sali Simon Hefti mein Name.
+Sali Sali Simon Hefti min Name.
 20. SG (Schweiz). Softwareentwickler.
