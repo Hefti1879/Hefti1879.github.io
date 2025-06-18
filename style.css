@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.cv-container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.2em;
+}
+
+header h2 {
+  margin: 0.2em 0;
+  font-weight: normal;
+  color: #666;
+}
+
+section {
+  margin-bottom: 1.5rem;
+}
+
+h3 {
+  border-bottom: 2px solid #007ACC;
+  padding-bottom: 0.3rem;
+  color: #007ACC;
+  margin-bottom: 0.8rem;
+}
+
+ul {
+  padding-left: 1.2rem;
+}
+
+ul li {
+  margin-bottom: 0.3rem;
+}
+
+a {
+  color: #007ACC;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
